@@ -9,7 +9,11 @@ body{
 }
 #cabecera{
     background: #33A;
+<<<<<<< HEAD
     color: red;
+=======
+    color: grey;
+>>>>>>> cabecera
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
